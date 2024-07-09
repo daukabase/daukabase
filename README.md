@@ -3,9 +3,10 @@
 ### 🙋‍♂️ About
 
 - 🏙️ I live in cold and beautiful city Astana in Kazakhstan
-- 🚀 And trying to launch my business
 - 👨🏽‍💻 I've been into iOS Software Engineering 5+ years
-- 🥊 Boxing and 🏀 basketball to stay healthy
+- 🏀 basketball and 👟 running to stay healthy
+- 🧘🏾 Mindfullness
+- 🦾 AI powered biomachine
 
 
 ### 🚀 My Projects
