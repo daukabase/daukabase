@@ -1,9 +1,9 @@
-# Salem, I'm Daulet Almagambetov 👋
+# Salem, I'm Daulet 👋
 
 ### 🙋‍♂️ About
 
 - 🏙️ I live in cold and beautiful city Astana in Kazakhstan
-- 👨🏽‍💻 I've been into iOS Software Engineering 5+ years
+- 👨🏽‍💻 I've been into iOS Software Engineering 6+ years
 - 🏀 basketball and 👟 running to stay healthy
 - 🧘🏾 Mindfullness
 - 🦾 AI powered biomachine
@@ -11,7 +11,7 @@
 
 ### 🚀 My Projects
 
-- [NeoQazaq — Enhance kazakh typing](https://apps.apple.com/kz/app/neoqazaq/id6478051876)  ✅ Launched [repo](https://github.com/daukabase/NeoQazaq)
+- [Batyrma — Enhance kazakh typing](https://apps.apple.com/kz/app/neoqazaq/id6478051876)  ✅ Launched [repo](https://github.com/daukabase/NeoQazaq)
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://github.com/daukabase/daukabase/assets/31764630/70a3d63f-1675-433d-809a-0f4ef80a90cb" alt="1_opaque" width="160" style="border-radius: 12px;">
@@ -23,7 +23,9 @@
 - [Challenge.me — Another habit tracker app](https://apps.apple.com/kz/app/challenge-me/id1540571421) ✅ Launched
 
 
-### 📫 Contact me and let's build something big
+
+
+### 📫 Contact me and let's build something big together
 
 - 📷 [Instagram](https://www.instagram.com/almagambetoff) 
 - 💡 [Telegram](https://t.me/daukabase)
