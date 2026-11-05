@@ -1,12 +1,11 @@
 # Salem, I'm Daulet 👋
 
+
 ### 🙋‍♂️ About
 
-- 🏙️ I live in cold and beautiful city Astana in Kazakhstan
-- 👨🏽‍💻 I've been into iOS Software Engineering 6+ years
-- 🏀 basketball and 👟 running to stay healthy
-- 🧘🏾 Mindfullness
-- 🦾 AI powered biomachine
+- 🏙️ Doing side quests in London
+- 👨🏽‍💻 Playing with computers, crafting software
+- 👟 Muay Thai
 
 
 ### 🚀 My Projects
